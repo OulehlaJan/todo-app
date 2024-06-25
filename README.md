@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/oulehlajan/netflix-wishlist?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/oulehlajan/todo-app?style=for-the-badge)
 
 <!-- Created by, animated text -->
 <p align="center">
