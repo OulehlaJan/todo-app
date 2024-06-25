@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="assets/NetflixWishlist.gif" />
+  <img src="assets/todoApp.gif" />
 </p>
 
 ## :open_file_folder: What's inside?
