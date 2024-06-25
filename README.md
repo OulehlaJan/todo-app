@@ -21,6 +21,12 @@
   <img src="assets/todoApp.gif" />
 </p>
 
+## &#129513; Dependencies
+
++ TypeScript
++ React
++ React Beautiful DnD
+
 ## :open_file_folder: What's inside?
 
 A quick look at the structure of this project.
