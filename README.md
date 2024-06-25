@@ -26,6 +26,7 @@
 + TypeScript
 + React
 + React Beautiful DnD
++ React Icons
 
 ## :open_file_folder: What's inside?
 
