@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="assets/todoApp.gif" />
+  <img src="assets/todo-app.gif" />
 </p>
 
 ## &#129513; Dependencies
