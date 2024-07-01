@@ -23,11 +23,8 @@
 
 ## &#129513; Dependencies
 
-+ TypeScript
-+ React
 + React Beautiful DnD
 + React Icons
-+ Jest
 
 ## :open_file_folder: What's inside?
 
