@@ -13,7 +13,7 @@
 
 <!-- Demo Link -->
 <p align="center">
-  <a href="https://taskify-todo-app-oulehlajan.netlify.app/">Taskify</a>:point_left: <br />
+  <a href="https://taskify-todo-app-oulehlajan.netlify.app/">Todo App</a>:point_left: <br />
 </p>
 
 <!-- GIF -->
