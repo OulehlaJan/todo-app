@@ -12,9 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c1c9232-9ec8-4720-be56-6e052deed177/deploy-status)](https://app.netlify.com/sites/taskify-todo-app-oulehlajan/deploys) <br />
 
 <!-- Demo Link -->
-<p align="center">
+<h3 align="center">
   <a href="https://taskify-todo-app-oulehlajan.netlify.app/">Todo App</a>:point_left: <br />
-</p>
+</h3>
 
 <!-- GIF -->
 <p align="center">
